@@ -1,14 +1,14 @@
 {
-  "Author": "Lxxyx - Inspired by Joyee Cheung",
+  "Author": "Leo Tian - Inspired by Joyee Cheung",
   "Guide": [
     "照着这里面的格式填写即可",
     "PDF会自动生成，文件名可以在 generate_pdf.js 里改",
     "PDF的地址，将这个文件里pdf部分改为你的PDF文件名即可"
   ],
-  "title": "刘子健 - 前端工程师",
+  "title": "田彦博 - 前端工程师",
   "aside": [
     {
-      "href": "https://github.com/Lxxyx/LxxyxResume",
+      "href": "https://github.com/leotian",
       "content": "源代码"
     },
     {
@@ -16,160 +16,112 @@
       "content": "PDF下载"
     },
     {
-      "href": "https://segmentfault.com/u/lxxyx",
-      "content": "SF"
-    },
-    {
-      "href": "https://www.zhihu.com/people/lxxyx",
+      "href": "https://www.zhihu.com/people/leo.tian",
       "content": "知乎"
     }
   ],
   "header": {
     "title": {
-      "name": "刘子健",
-      "job": "前端工程师"
+      "name": "田彦博",
+      "job": "前端开发工程师"
     },
     "contacts": {
-      "phone": "15579185518",
-      "mail": "Lxxyxzj@gmail.com",
-      "wechat": "Greboxer",
-      "weibo": {
-        "href": "http://weibo.com/u/2239592792",
-        "name": "刘子健_且行且歌"
-      },
+      "phone": "15611662306",
+      "mail": "leotiann@gmail.com",
+      "wechat": "TTleo821",
       "github": {
-        "href": "https://github.com/Lxxyx",
-        "name": "Lxxyx"
+        "href": "https://github.com/leotian",
+        "name": "leotian"
       },
       "blog": {
-        "href": "http://www.lxxyx.win",
-        "name": "Lxxyx的前端乐园"
+        "href": "https://leotian.cn",
+        "name": "天生爱走神"
       }
     }
   },
   "education": {
-    "time": "2014-2018",
-    "name": "南昌大学",
-    "major": "人力资源管理（本科）",
-    "honor": [
-      "2015.3 - 2016.8 南昌大学家园工作室 — 前端开发",
-      "2016.9 - 2017.6 `南昌大学家园工作室 — 前端负责人`"
-    ]
+    "time": "2012-2016",
+    "name": "太原理工大学",
+    "major": "软件工程（本科）"
   },
   "language": {
     "cert": [
       {
-        "name": "CET-4",
-        "grade": 491,
-        "fullmarks": 710
+        "name": "CET-4"
       }
     ],
     "skills": [
       "能较为流畅的阅读开发文档及其他资料",
-      "可在英文字幕下观看 MOOC 课程、开发者大会视频",
       "能正常使用Google与Stack Overflow解决开发问题"
     ]
   },
   "experience": [
     {
       "title": {
-        "place": "淘宝前端团队",
-        "time": "2017.06-2018.01"
+        "place": "杏树林信息技术有限公司",
+        "time": "2016.07-至今"
       },
-      "content": {
-        "position": " Web 前端实习生",
-        "tasks": [
-          "参与双十一、双十二大促，开发手淘“全部会场”，“会场推荐”等`核心页面与模块`",
-          "参与双十一、双十二大促，开发淘宝首页 Sidebar 功能并上线",
-          "使用 Weex/Rax 完成手淘首页业务，学习性能优化相关知识，持续优化性能",
-          "完成手淘品牌号创新广告业务，实现视差等复杂交互效果"
-        ]
-      }
-    },
-    {
-      "title": {
-        "place": "家园工作室",
-        "time": "2015.3-2017.06"
-      },
-      "content": {
-        "position": "前端开发",
-        "tasks": [
-          "使用 `React/Vue` , 开发单页应用",
-          "使用 `React Native` 开发 `Android/iOS App` ",
-          "负责工作室日常前端工作安排，定期开展前端分享会，解决疑难 BUG ",
-          "制定工作室前端技术栈，Git、代码规范及新人前端学习路线"
-        ]
-      }
-    },
-    {
-      "title": {
-        "place": "百度企业产品用户体验中心",
-        "time": "2016.10-2017.2"
-      },
-      "content": {
-        "position": " Web 前端实习生",
-        "tasks": [
-          "参与某后台系统的开发与重构, 使用 Riot 完成项目",
-          "学习前端技术选型，代码可读性优化等知识",
-          "学习公司开发流程，制度等软知识"
-        ]
-      }
-    },
-    {
-      "title": {
-        "place": "北京闪银奇异",
-        "time": "2016.07-2016.08"
-      },
-      "content": {
-        "position": " Web 前端实习生",
-        "tasks": [
-          "使用 `ES6 + Webpack/Rollup` 重构大量老代码，提高代码可读性与可维护性",
-          "使用 `Koa2 + NeDb + Vue` ,开发生日提醒与查询系统",
-          "`深入学习移动端 Web 开发与移动端常见调试方式`"
-        ]
-      }
-    },
-    {
-      "title": {
-        "place": "南大家园-iNCU",
-        "time": "2017.01-至今",
-        "links": [
-          {
-            "name": "下载链接",
-            "href": "http://incu.ncuos.com/"
-          }
-        ]
-      },
-      "content": {
-        "position": "客户端/前端/后台",
-        "tasks": [
-          "使用 `React Native` + `TypeScript` + `Redux & Redux-saga` 完成整个App",
-          "负责 App 的性能优化，提升运行速度",
-          "负责 Android/iOS SDK集成，App更新，数据统计等 `React Native 原生拓展功能的开发`",
-          "负责课程表/反馈/空闲教室等功能的后端开发，并使用 `Docker` 部署",
-          "`编写100+单元测试`, 确保 App 迭代，重构，日常运行的稳定性，部分功能采取 TDD 方式开发",
-          "注重代码可维护性与健壮性，`多次重构以提高代码可维护性`"
-        ]
-      }
-    },
-    {
-      "title": {
-        "place": "Koa2-Easy",
-        "links": [
-          {
-            "name": "源代码",
-            "href": "https://github.com/Lxxyx/koa2-easy"
-          }
-        ]
-      },
-      "content": {
-        "position": "Node.js",
-        "tasks": [
-          "基于 `Koa2`，从自身需求出发，加速开发",
-          "默认支持 `CORS跨域，Gzip，文件上传`等功能，",
-          "编写模板中间件 `Koa-ArtTemplate` 与脚手架，支持生成 TypeScript 模板，上手即用"
-        ]
-      }
+      "content": [
+        {
+          "position": "商业前台服务（2017 —— 2018）",
+          "tasks": [
+            "`前后端分离`项目的前端, node主要用于返回页面",
+            "将项目拆分为多页面应用, 使用webpack4打包",
+            "接口使用代理, 引入 `http-proxy-middleware`, 解决`跨域问题`",
+            "部分页面涉及微信内使用, 接触了微信js-sdk"
+          ]
+        },
+        {
+          "position": "商业后台服务（2017 —— 2018）",
+          "tasks": [
+            "后端使用 `express`, 开发完整的后台系统, 包括用户管理、菜单管理等",
+            "前端使用 `vue + ElementUI` 实现 `SPA`应用, 并进行了部分组件的 `二次封装`",
+            "使用 `express-session + redis` 管理 session 并包含权限验证",
+            "开发`视频上传`模块, 视频上传到网易云",
+            "开发`网页应用发版`模块, 使使用旧版的用户即时退出登录重新拉取菜单"
+          ]
+        },
+        {
+          "position": "商业广告服务（2017）",
+          "tasks": [
+            "使用 `hapi` 框架构建 `RESTful-API` 服务, 自动生成 `swagger` 文档",
+            "使用 `Joi` 作为 `Object schema validation` 验证数据",
+            "使用 `Redis` 建立缓存",
+            "负责开发 `userAuthorize` 中间件, 解析用户信息"
+          ]
+        },
+        {
+          "position": "adminservice服务（2017）",
+          "tasks": [
+            "前端使用`react + redux/mobx`",
+            "开发",
+            "",
+            ""
+          ]
+        },
+        {
+          "position": "官网服务/病历夹网站版（2016）",
+          "tasks": [
+            "后端使用Java, 前端jquery",
+            "使用Spring MVC负责了部分接口的开发",
+            "分离了官网首页, 开发了关于我们/博客模块",
+            "部分旧页面为了复用使用了页面代理"
+          ]
+        },
+        {
+          "position": "更多",
+          "tasks": [
+            "独立开发 `Monitor` 服务进行 `组内服务监控和报警`",
+            "独立开发 `定时任务` 服务进行 数据导出、图片导出 等操作",
+            "独立开发 `sms` 负责全公司与短信运营商的交互 ",
+            "独立完成了整个项目组的 `容器化`: 重构构建脚本, 重要服务 `双机部署`",
+            "参与开发 `商业后台接口` 项目, 负责商业项目接口的对外交互",
+            "参与开发 `商业前台通用` 项目, 负责商业项目的入组和参会，入组使用到了`消息队列`",
+            "参与开发 `诊疗圈` 项目, 负责商业私密课的开发",
+            "参与开发 `表单服务` 负责表单数据的展示页面"
+          ]
+        }
+      ]
     }
   ],
   "skills": {
@@ -181,26 +133,25 @@
           "description": [
             "能够编写语义化的 `HTML` ，熟悉 `CSS` 的使用，实现常用的布局与动画",
             "了解 `HTML5/CSS3` ，能熟练使用部分新特性",
-            "不借助框架，能编写`响应式/移动端网页`"
+            "能够编写`响应式/移动端网页`"
           ]
         },
         {
-          "name": "`ECMAScript（JavaScript）`",
+          "name": "ECMAScript（JavaScript）",
           "description": [
-            "熟悉 JavaScript ，`代码编写遵守规范`",
-            "了解` JavaScript 面向对象知识`与 `MV*` 模式",
-            "理解 ECMAScript 规范及制定过程，`熟练使用 ES6/7/Next 开发项目 `",
-            "熟悉异步编程，`掌握常见的解决方案及原理`"
+            "熟悉 JavaScript, `代码编写遵守规范`, 组内有EsLint规范",
+            "了解 `JavaScript 面向对象知识` 与 `MV*` 模式",
+            "理解 ECMAScript 规范及制定过程，`熟练使用 ES6/7 开发项目 `",
+            "熟悉 `异步编程, 跨源资源共享`, 掌握常见的解决方案及原理"
           ]
         },
         {
-          "name": "前端工程化实践",
+          "name": "主流开发框架和工程化",
           "description": [
-            "日常使用 `TypeScript` 完成前后端项目",
-            "熟练使用 `React/Vue` ，完成单页和常见应用的编写",
-            "熟练使用 `React Native/Weex` 开发 App",
             "熟悉 jQuery/Bootstrap 等常见框架类库的使用",
-            "熟练使用 `Gulp , Webpack , Rollup` 等代码构建工具"
+            "熟练使用 `React/Vue`, 完成单页和常见应用的编写",
+            "熟练使用 `webview-bridge` 技术与客户端联调App",
+            "熟练使用 `Babel, Webpack, Gulp` 等代码构建工具"
           ]
         }
       ]
@@ -211,18 +162,21 @@
         {
           "name": "`Node.js`",
           "description": [
-            "使用 `TypeScript + Koa2/Express` 等框架搭建后端服务",
-            "`使用 Node.js 开发命令行/爬虫程序`，并发布至 npm",
-            "能配合 MongoDB 完成 CRUD",
-            "使用 `Jest/Mocha/Ava` 编写单元及UI测试 并通过 Ci 实现持续集成"
+            "能使用 `Koa2/Express/egg` 等框架独立搭建后端服务, ",
+            "能配合 `MySql + knex` 完成 CRUD",
+            "能配合 `MongoDB + Mongoose` 完成 CRUD",
+            "能开发项目组日常使用中间件/工具包等, 并发布至私有npm仓库",
+            "使用 `Mocha` 编写单元, 并通过 `Jenkins` 实现持续集成",
+            "使用 `Winston` 日志框架, 简单的日志分类收集, 日期切割"
           ]
         },
         {
           "name": "其它知识",
           "description": [
-            "熟悉 `HTTP 常见知识`,对 HTTP2/WebSocket 等新知识有所了解",
+            "熟悉 `HTTP 常见知识`, 对 WebSocket 等新知识有所了解",
             "日常使用 `Docker` 完成项目的构建与部署",
-            "完成 `Nginx` 的配置，实现反向代理等功能"
+            "开发镜像并使用 `docker hub` 管理",
+            "完成 `Nginx` 的配置, 实现反向代理等功能"
           ]
         }
       ]
@@ -233,18 +187,16 @@
         {
           "name": "`计算机基础`",
           "description": [
-            "计算机基础较好，`对计算机与编程有极大热情，自学能力较强`",
-            "在校选课与 MOOC 自学《计算机科学导论》，《计算机网络》等课程",
-            "自学`数据结构与算法`，用 JavaScript 实现并归纳总结 -- <a href=\"http://t.cn/R4Ybrs0\">总结地址</a>",
-            "`坚持写原创技术博客，月浏览量3k`，在 Github 有自己的开源项目"
+            "计算机专业毕业, 基础知识扎实, 并`对计算机与编程有极大热情，自学能力较强`"
           ]
         },
         {
           "name": "工具使用",
           "description": [
-            "`两年 Linux 使用经验`，使用 macOS 作为日常系统",
-            "熟练使用 Git 等代码管理与团队协作工具，`使用 Gitflow 开发项目`并尝试在团队内推广使用",
-            "日常使用 `VSCode / Webstorm` 进行开发"
+            "使用 macOS 作为日常系统",
+            "`多年 Linux 使用经验`, 组内服务器日常维护",
+            "日常使用 `Webstorm / VSCode` 进行开发",
+            "熟练使用 `Git` 代码管理与团队协作工具"
           ]
         }
       ]
