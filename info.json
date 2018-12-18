@@ -186,9 +186,15 @@
       "name": "其它",
       "skill": [
         {
-          "name": "`计算机基础`",
+          "name": "`个人项目`",
           "description": [
-            "计算机专业毕业, 基础知识扎实, 并`对计算机与编程有极大热情，自学能力较强`"
+            "node版微信加解密库"
+          ],
+          "links": [
+            {
+              "name": "node-wxbizmsgcrypt",
+              "href": "https://github.com/leotian/node-wxbizmsgcrypt"
+            }
           ]
         },
         {

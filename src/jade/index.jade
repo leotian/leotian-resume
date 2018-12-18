@@ -124,5 +124,8 @@ block skills
             each skill in skills.gears.skill
               dl.skill-content
                 dt.skill-name!= skill.name
+                if skill.links
+                  each link in skill.links
+                    a.skill-name-link(href=link.href target="_blank")= link.name
                 each description in skill.description
                   dd.skill-description.icon-star!= description
