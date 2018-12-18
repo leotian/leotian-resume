@@ -86,7 +86,7 @@ gulp.task('clean', () => {
 gulp.task('deploy', () =>
   gulp.src('./dist/**/*').pipe(
     ghPages({
-      remoteUrl: 'git@github.com:Lxxyx/lxxyx.github.io.git',
+      remoteUrl: 'git@git.dev.tencent.com:tybleo/LeoTianResumeDist.git',
       branch: 'master'
     })
   )
