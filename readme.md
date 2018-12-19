@@ -2,8 +2,8 @@
 
 简历为仿写，原简历页面地址: [张秋怡 - 个人简历](https://joyeecheung.github.io/resume/) 【原主人已删除】
 
-简历基于 Gulp+Scss+Jade。  
-访问地址：[Lxxyx 的简历](https://resume.lxxyx.cn)
+简历基于 Gulp+Scss+Jade。
+访问地址：[LeoTian 的简历](https://resume.leotian.cn)
 
 ### 要求
 
@@ -29,7 +29,7 @@ npm run pdf
 
 ### 运行方式：
 
-替换 info.json 的内容，运行`gulp`即可。  
+替换 info.json 的内容，运行`gulp`即可。
 生成内容可在 dist 文件夹查看。
 
 需要自动部署的，运行`gulp deploy`即可，需要在 gulpfile 中更改为你的地址（！会抹去你 github pages 内容，慎用！）
