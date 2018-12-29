@@ -28,7 +28,6 @@
     "contacts": {
       "phone": "15611662306",
       "mail": "leotiann@gmail.com",
-      "wechat": "TTleo821",
       "github": {
         "href": "https://github.com/leotian",
         "name": "leotian—https://github.com/leotian"
@@ -36,6 +35,12 @@
       "blog": {
         "href": "https://leotian.cn",
         "name": "个人博客—https://leotian.cn"
+      },
+      "resume": {
+        "blog": {
+          "href": "https://resume.leotian.cn",
+          "name": "简历页面—https://resume.leotian.cn"
+        }
       }
     }
   },

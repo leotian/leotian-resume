@@ -10,18 +10,18 @@ block header
     address
       ul.contacts
         li.icon-phone
-          a= header.contacts.phone
+          a=header.contacts.phone
         li.icon-mail
           a(href="mailto:"+header.contacts.mail)= header.contacts.mail
-        li.icon-wechat.wechat= header.contacts.wechat
-        //li.icon-weibo
-        //  a(href=header.contacts.weibo.href)= header.contacts.weibo.name
         if header.contacts.github
           li.icon-github
             a(href=header.contacts.github.href)= header.contacts.github.name
         if header.contacts.blog
           li.icon-blog
             a(href=header.contacts.blog.href)= header.contacts.blog.name
+        if header.contacts.resume
+          li.icon-trophy= header.contacts.resume
+            a(href=header.contacts.resume.href)= header.contacts.resume.name
 
 
 block education
